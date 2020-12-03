@@ -1,5 +1,17 @@
 # predoc-course-2020
 
+This repository contains the code from team 6 for cell segmenation and cell prediction. 
+
+**Team 6:**
+
+1. **Dana-Maria Grozavu**
+2. **Dorothy Cheng**
+3. **Felix Mikus**
+4. **Frosina Stojanovska**
+5. **Rory Long**
+
+# The challenge
+
 You will design an image analysis pipeline for immunofluorescence images of COVID-infected cells published in [Microscopy-based assay for semi-quantitative detection of SARS-CoV-2 specific antibodies in human sera](https://www.biorxiv.org/content/10.1101/2020.06.15.152587v2). 
 In this challenge, you will learn how to use and adapt state-of-the-art bioimage analysis algorithms and combine them in 
 a custom pipeline to quantify visual information from microscopy images.
